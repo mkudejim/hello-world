@@ -1,2 +1,2 @@
 # hello-world
-learning git
+This is good source control, great feature for adding features haha.
